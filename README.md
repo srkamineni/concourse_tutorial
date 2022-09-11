@@ -19,3 +19,5 @@ another one
 after restart zsh went bad  
 
 ha
+
+no more master - its called main
